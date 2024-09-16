@@ -1,6 +1,6 @@
 export function ResultsText(props) {
   return (
-    <div className="flex flex-col items-center lg:items-start justify-start flex-wrap max-w-xl gap-24 mx-auto mt-11">
+    <div className="flex flex-col items-center lg:items-start justify-start flex-wrap max-w-xl gap-14 mx-auto mt-11">
       <p className="font-medium text-white text-base">
         Rua: {props.streetName}
       </p>
